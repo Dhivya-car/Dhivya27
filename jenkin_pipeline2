@@ -1,5 +1,5 @@
 node {
-   
+   dev mvnHome
    stage('Preparation')
    { 
      echo 'Welcome to Stage One'
