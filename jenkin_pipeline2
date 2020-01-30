@@ -1,4 +1,5 @@
-node {
+node
+{
    dev mvnHome
    stage('Preparation')
    { 
